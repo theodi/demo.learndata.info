@@ -1,0 +1,2592 @@
+{
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "58481cbf4d7b7e82691e4bc0"
+      },
+      {
+        "title": "intro logo",
+        "_id": "58beddf9d084d5167a04ae89"
+      }
+    ]
+  },
+  "e9bfc830784387f82fd0b7576fdd19a235432d2e.png": {
+    "title": "summary-icon.png",
+    "description": "summary-icon.png",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      }
+    ]
+  },
+  "34d9d55056a21925974346e3c74661359d7083c6.png": {
+    "title": "Splat light blue",
+    "description": "ODI splat light blue",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      }
+    ]
+  },
+  "db9331e718cd2b758ef3a27ecb650cd34ef7fd33.jpg": {
+    "title": "Barchart baseline failure",
+    "description": "Bus Tax cuts ",
+    "source": "http://www.foxnews.com/",
+    "licence": "All rights reserved",
+    "attribution": "Fox News ",
+    "tags": []
+  },
+  "99da2f20fc6d50aa064a09aeb8c2fffd51651480.png": {
+    "title": "Multiple axes baseline failure",
+    "description": "Source: Colorado department of transport (via wtfviz.net) ",
+    "source": "http://www.medicaldaily.com/did-marijuana-legalization-lower-car-accident-deaths-colorado-state-sees-historic-lows-296886",
+    "licence": "CC-BY",
+    "attribution": "Historical Fatal Car Crashes, Colorado Department of Transportation, Colorado Department of Transportation",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "becc93fb17de6ed165b9891abe6fb851775ac273.jpg": {
+    "title": "New York State Expenditure",
+    "description": "New York State Expenditure",
+    "source": "https://www.edwardtufte.com/tufte/",
+    "licence": "CC-BY",
+    "attribution": "Edward Tufte",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "758439c9a2b0edc0fbb19e6ed6c66ad1ccd8497d.jpg": {
+    "title": "New York State Expenditure (scaled)",
+    "description": "New York State Expenditure (scaled)",
+    "source": "https://www.edwardtufte.com/tufte/",
+    "licence": "CC-BY",
+    "attribution": "Edward Tufte",
+    "tags": [
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      }
+    ]
+  },
+  "7c422cfc6ad4640bd456aac607a7d776296f5302.jpg": {
+    "title": "Radius and area fail",
+    "description": "Radius and area fail",
+    "source": "https://www.slideshare.net/ICScreative/fast-cheapgreat-icscreative",
+    "licence": "CC-BY",
+    "attribution": "Slideshare",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "d3f89a6758812def9582f6977de3872488742d4c.png": {
+    "title": "Percentages",
+    "description": "Source: wtfviz.net",
+    "tags": []
+  },
+  "62186a87264ebc59ab4c6bc73c6e88a07a62e343.jpg": {
+    "title": "Area chart example",
+    "description": "Area Chart",
+    "source": "https://www.cs.ox.ac.uk/people/max.vankleek/\n",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": []
+  },
+  "b364223b22fc06d77b12f50f39bd4da961d73030.jpg": {
+    "title": "Stacked area",
+    "description": "Area Chart",
+    "source": "https://www.cs.ox.ac.uk/people/max.vankleek/",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": []
+  },
+  "b1426dd8e5e24ae387c8d59ab5169aad6edb9001.jpg": {
+    "title": "Stream graph",
+    "description": "Stream Graph",
+    "source": "https://techcrunch.com/",
+    "licence": "All rights reserved",
+    "attribution": "Techcrunch",
+    "tags": []
+  },
+  "a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png": {
+    "title": "Burst white",
+    "description": "Source: ODI",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      }
+    ]
+  },
+  "8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg": {
+    "title": "odi-1-text-image_large.jpg",
+    "description": "Data",
+    "tags": [
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      }
+    ]
+  },
+  "672bf2eb96b5642e5d515626558e12effcde751b.jpg": {
+    "title": "Baseline & Area failure",
+    "description": "Baseline & Area failure",
+    "source": "http://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "df4f58cc130dde9a671827313192401b8cb263ca.jpg": {
+    "title": "Health care pie",
+    "description": "Unhealthy data. ",
+    "source": "http://viz.wtf/post/143590868627/unhealthy-data",
+    "licence": "All rights reserved",
+    "attribution": "WTF Visualizations",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      }
+    ]
+  },
+  "4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png": {
+    "title": "Area or stack?",
+    "description": "The area charts",
+    "source": " https://www.cs.ox.ac.uk/people/max.vankleek/",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "18738e0898ac8f711ed72e3be0a1bfe45e5c7aaa.jpg": {
+    "title": "Clear communication ",
+    "description": "Source: The Independant\r\nURL: http://www.independent.co.uk/news/world/oregon-college-shooting-obama-is-right-that-guns-kill-more-americans-than-terrorism-but-so-do-lots-a6676366.html",
+    "tags": []
+  },
+  "9c6620e9e0b81c6cfa582c5346798f88dc1fa392.jpg": {
+    "title": "Visualisation for understanding",
+    "description": "Source: Charles Joseph Minard",
+    "tags": []
+  },
+  "d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png": {
+    "title": "Playfair's trade-balance time-series chart",
+    "description": "URL: https://en.wikipedia.org/wiki/William_Playfair#/media/File:Playfair_TimeSeries-2.png",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "34eb7b4a0a4b7747b9d04b9920aff369a14523cc.jpg": {
+    "title": "iPhone vs Microsoft",
+    "description": "Apple's iPhone Business Alone Is Now Bigger Than All Of Microsoft\nThink about that.",
+    "source": "http://www.businessinsider.com/iphone-bigger-than-microsoft-2012-2?IR=T",
+    "licence": "All rights reserved",
+    "attribution": "Business Insider",
+    "tags": [
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      }
+    ]
+  },
+  "31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg": {
+    "title": "Men vs Women heights",
+    "description": "Source: Usable stats\nURL: http://www.usablestats.com/lessons/normal",
+    "source": "http://www.usablestats.com/lessons/normal",
+    "licence": "All rights reserved",
+    "attribution": "Usable stats",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "db69d30968f7a139e2732848eb7d96f2f5edefab.jpg": {
+    "title": "Detroit mapping",
+    "description": "Source: Detroit mapping\nURL: unknown",
+    "tags": [
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "de828319078da8466ec5450e1637d5cbe8d35290.png": {
+    "title": "Line chart Medal tracker (550x370)",
+    "description": "Source: BBC",
+    "source": "http://www.bbc.co.uk/sport/olympics/36970388",
+    "licence": "All rights reserved",
+    "attribution": "BBC",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "medal",
+        "_id": "58e62414d084d5167a04d3d9"
+      }
+    ]
+  },
+  "ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg": {
+    "title": "Bubble map",
+    "description": "Bubble map",
+    "source": "https://www.espatial.com/articles/create-a-bubble-map",
+    "licence": "All rights reserved",
+    "attribution": "eSpatial",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      },
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      }
+    ]
+  },
+  "8738ff5125f5aab259d89c8d9f6f1633612fdba1.jpg": {
+    "title": "Heat map",
+    "description": "Source: Google somewhere",
+    "tags": [
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "d331a39b5c8ac69538ef90e9183f55e7da0425b1.PNG": {
+    "title": "Population map ",
+    "description": "Source: Google somewhere",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      }
+    ]
+  },
+  "c8de917dcf4bcf5139c9667633047442bc193c26.jpg": {
+    "title": "Point map",
+    "description": "Source: Google somewhere.",
+    "tags": [
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      }
+    ]
+  },
+  "d2445a55c3baba4530ca53aef667079d65b9b497.jpg": {
+    "title": "Human eye",
+    "description": "Illustrious Digital Art: Photo Manipulation Artworks of the Human Eye | Design Juices\nThese digital artworks are big favorites of mine which showcase various forms of digital art skills in which there main subject is the human eye.",
+    "source": "http://www.designjuices.co.uk/2010/05/digital-photo-manipulation-eyes/\n",
+    "licence": "All rights reserved",
+    "attribution": "designjuices.co.uk",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "1949700df360ddc39b5615e5a066c8e8a1033bef.jpg": {
+    "title": "Visual cortex (550x370)",
+    "description": "The two-streams hypothesis is a widely accepted and influential model of the neural processing of vision as well as hearing. The hypothesis, given its most popular characterisation in a paper by David Milner and Melvyn A. Goodale in 1992, argues that humans possess two distinct visual systems. However, recently there seems to be evidence of two distinct auditory systems as well. ",
+    "source": " https://en.wikipedia.org/wiki/Two-streams_hypothesis\n",
+    "licence": "All rights reserved",
+    "attribution": "Wikipedia",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "brain",
+        "_id": "58500c7b4e62ce485eb1461e"
+      }
+    ]
+  },
+  "7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg": {
+    "title": "La methode graphique",
+    "description": "TGV timetable ",
+    "source": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003zP\n",
+    "licence": "All rights reserved",
+    "attribution": "Tufte",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      }
+    ]
+  },
+  "33d031e8e0dd609b862126d7230be817cd4b04ec.jpeg": {
+    "title": "Pop-out 2",
+    "description": "Source: eMax",
+    "source": "theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "Dave Tarrant",
+    "tags": [
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "830a363e47beb192ee84e879a30985e533ae8b6a.jpg": {
+    "title": "Colour intensite",
+    "description": "Colour intensite",
+    "source": "URL: http://www.instant-analysis.com/Principles/intensity.gif",
+    "licence": "CC-BY",
+    "attribution": "Instant-Analysis",
+    "tags": [
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "c81f325ec319036d82a74877c300839a4b5fff92.jpeg": {
+    "title": "One colour",
+    "description": "Source: Open Data Barometer",
+    "source": "theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "Dave Tarrant",
+    "tags": []
+  },
+  "38eacb3640bcb9352d696d144a38ad111db88f5c.jpg": {
+    "title": "Plane survival rates",
+    "description": "Plane image",
+    "source": "https://www.quora.com/How-do-I-survive-a-plane-crash",
+    "licence": "All rights reserved",
+    "attribution": "popular mechanics ",
+    "tags": [
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      }
+    ]
+  },
+  "ad6dcf89e1ab1f064b9c6869a69d025cc5f80922.jpg": {
+    "title": "Eye (430x430)",
+    "description": "Illustrious Digital Art: Photo Manipulation Artworks of the Human Eye | Design Juices\nThese digital artworks are big favorites of mine which showcase various forms of digital art skills in which there main subject is the human eye.",
+    "source": "http://www.designjuices.co.uk/2010/05/digital-photo-manipulation-eyes/\n",
+    "licence": "All rights reserved",
+    "attribution": "designjuices.co.uk",
+    "tags": [
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "fa1fdff39dd90489ddeac2b8ea7dcb6319d444e6.jpeg": {
+    "title": "One colour (430x430)",
+    "description": "Source: Open Data Barometer",
+    "source": "theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "Dave Tarrant ",
+    "tags": [
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      }
+    ]
+  },
+  "2da5b534acdc8080cc6a818ac4af094a17d30785.jpg": {
+    "title": "Filing cabinet",
+    "description": "Source: http://www.shutterstock.com/pic-246719938",
+    "tags": [
+      {
+        "title": "Generic",
+        "_id": "584803254d7b7e82691e4ba2"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Business",
+        "_id": "5848158b4d7b7e82691e4bbd"
+      }
+    ]
+  },
+  "ae0541d37bc892cc4b6b2ae323d3cc05d21ef6b4.jpg": {
+    "title": "Cleaning 4 (430x430)",
+    "description": "Cleaning 4 (430x430)",
+    "source": "Source: http://www.shutterstock.com/pic-232737427",
+    "licence": "Shutterstock standard licence",
+    "attribution": "kirill_makarov",
+    "tags": [
+      {
+        "title": "cleaning",
+        "_id": "5847ffa04d7b7e82691e4b92"
+      },
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      }
+    ]
+  },
+  "33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg": {
+    "title": "Cleaning 2",
+    "description": "Source: http://www.shutterstock.com/pic-232737427",
+    "tags": []
+  },
+  "14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg": {
+    "title": "Open refine",
+    "description": "Source: openrefine.org",
+    "tags": []
+  },
+  "8955909579b53c7ebec6ce4d5df18706652bef7a.jpg": {
+    "title": "Spreadsheet",
+    "description": "Source: http://www.shutterstock.com/pic-224184241",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Tech",
+        "_id": "5848043c4d7b7e82691e4ba8"
+      }
+    ]
+  },
+  "ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg": {
+    "title": "People data",
+    "description": "Network people",
+    "tags": [
+      {
+        "title": "network",
+        "_id": "584ff4d94e62ce485eb145c2"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "099adb319c4910eec7c518c71cb42752af62327c.jpg": {
+    "title": "laptop folder network",
+    "description": "laptop folder network",
+    "source": "https://www.shutterstock.com/image-illustration/data-transferring-285210746",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Horscope ",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "files",
+        "_id": "58933fe5fda9f5660ad841a1"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "2f02baa67a4f8276891c6dd8549dc00678e3abf3.jpg": {
+    "title": "Bright idea",
+    "description": "Source: http://www.shutterstock.com/pic-68619337",
+    "tags": [
+      {
+        "title": "Linked",
+        "_id": "5848003c4d7b7e82691e4b9a"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      }
+    ]
+  },
+  "98e5a6a16798539ca80fdcaa4979d38e411dc44a.png": {
+    "title": "Burst Yellow",
+    "description": "Source: ODI",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      }
+    ]
+  },
+  "cb37a73180b59df11864f4753fdf885a658888d4.jpg": {
+    "title": "People network (430x430)",
+    "description": "People network (430x430)",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\n",
+    "licence": "Shutterstock standard licence",
+    "attribution": "higyou",
+    "tags": [
+      {
+        "title": "Linked",
+        "_id": "5848003c4d7b7e82691e4b9a"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      }
+    ]
+  },
+  "94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg": {
+    "title": "Cleaning 3",
+    "description": "people cleaning",
+    "source": "http://www.shutterstock.com/pic-232737427",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kirill_M",
+    "tags": [
+      {
+        "title": "cleaning",
+        "_id": "5847ffa04d7b7e82691e4b92"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "people cleaning",
+        "_id": "58bff532d084d5167a04aec8"
+      }
+    ]
+  },
+  "d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png": {
+    "title": "Clipboard orange",
+    "description": "clipboard orange",
+    "source": "http://www.shutterstock.com/pic-189810137.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kritchanut",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      }
+    ]
+  },
+  "e8665f7df3eb3bb19b9c8bcba1bacf34892e333f.mp4": {
+    "title": "Sort and filter",
+    "description": "How to sort and filter a spreadsheet",
+    "tags": []
+  },
+  "da7174fb6b713a99418e20ed9293bd6779ee1c60.mp4": {
+    "title": "Using formula",
+    "description": "Credit: David Tarrant",
+    "tags": []
+  },
+  "12f8f77a8589db3875d48bfe8db3e59be30e2982.mp4": {
+    "title": "Pivot tables",
+    "description": "Credit: David Tarrant",
+    "tags": []
+  },
+  "3f625479e5274063900e516b0d2618d0c4d45239.mp4": {
+    "title": "Graphs and Pivot",
+    "description": "Credit: David Tarrant",
+    "tags": []
+  },
+  "85a49d9ec53c78ab856cfcd3de0f7de618c4f2a4.png": {
+    "title": "Group",
+    "description": "Source: Noun Project, Licence: CC-0",
+    "tags": [
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Communication",
+        "_id": "5848000d4d7b7e82691e4b95"
+      },
+      {
+        "title": "Business",
+        "_id": "5848158b4d7b7e82691e4bbd"
+      }
+    ]
+  },
+  "a3038084b5bda8cb230ca1e2ecf31c85f3abb662.png": {
+    "title": "Open",
+    "description": "Source: Noun Project, Credit: Five by Five, Licence: CC-BY",
+    "tags": [
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Legal",
+        "_id": "584811da4d7b7e82691e4bb6"
+      }
+    ]
+  },
+  "6a0a91e76bc18535113eb85d50ab3cee62d57e04.png": {
+    "title": "closed",
+    "description": "Source: Noun Project, Credit: Edward Boatman, Licence: CC-BY",
+    "tags": [
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      }
+    ]
+  },
+  "f494970aa6b0cccd94671238e7d8bd663f59fa1d.png": {
+    "title": "public.png",
+    "description": "Source: Noun Project, Credit: Lorena Salagre, Licence: CC-BY",
+    "tags": [
+      {
+        "title": "Ico",
+        "_id": "584811934d7b7e82691e4bb4"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      }
+    ]
+  },
+  "d2a6aea242ee20f9a5083afe1f520727c022484a.png": {
+    "title": "contract",
+    "description": "Source: Noun Project, Credit: Joe Aimonetti, Licence: CC-BY",
+    "tags": [
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      }
+    ]
+  },
+  "55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg": {
+    "title": "Magnifying glass on data",
+    "description": "Magnifying glass on data, data formats",
+    "source": "https://www.flickr.com/photos/mjtmail/3008566512",
+    "licence": "CC-BY",
+    "attribution": "mjtmail (tiggy)",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "data format",
+        "_id": "58bed91dd084d5167a04ae75"
+      },
+      {
+        "title": "magnify",
+        "_id": "58bed91fd084d5167a04ae76"
+      },
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      }
+    ]
+  },
+  "14fad81b7ca38acf03071734b8362c47fd3d3997.jpg": {
+    "title": "Keyboard application ",
+    "description": "Keyboard application ",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark",
+    "tags": [
+      {
+        "title": "Generic",
+        "_id": "584803254d7b7e82691e4ba2"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      },
+      {
+        "title": "computer",
+        "_id": "587e3218b61c46e176e7e3ab"
+      }
+    ]
+  },
+  "ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg": {
+    "title": "data information knowledge triangle",
+    "description": "data information knowledge triangle 1",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Anna Frajtova",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      },
+      {
+        "title": "knowledge",
+        "_id": "58bd85cfd084d5167a04adae"
+      },
+      {
+        "title": "information",
+        "_id": "58bd85d1d084d5167a04adaf"
+      },
+      {
+        "title": "DIK triangle",
+        "_id": "58bd85d6d084d5167a04adb0"
+      }
+    ]
+  },
+  "8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg": {
+    "title": "Data Information Knowledge Triangle 2 ",
+    "description": "Data Information Knowledge Triangle 2 ",
+    "source": "https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Sachezi ",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      }
+    ]
+  },
+  "ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg": {
+    "title": "Data Information Knowledge Triangle 3 ",
+    "description": "Data Information Knowledge Triangle 3 ",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark ",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      }
+    ]
+  },
+  "d0b65072b086ee4a1d61ca5614571d734365e805.jpg": {
+    "title": "odi-11-mcq_large.jpg",
+    "description": "odi-11-mcq_large.jpg",
+    "tags": [
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Generic",
+        "_id": "584803254d7b7e82691e4ba2"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      }
+    ]
+  },
+  "058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg": {
+    "title": "Data Information Knowledge Triangle 3 (small)",
+    "description": "Data Information Knowledge Triangle 3 ",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark ",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      }
+    ]
+  },
+  "0906f449a4639090ea7a59cef4c8ea9051af9e5a.jpg": {
+    "title": "Crowd of people ",
+    "description": "Crowd of people ",
+    "source": "http://www.shutterstock.com/pic-164731838.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "STH",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Global",
+        "_id": "584802d14d7b7e82691e4ba1"
+      },
+      {
+        "title": "Communication",
+        "_id": "5848000d4d7b7e82691e4b95"
+      }
+    ]
+  },
+  "129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg": {
+    "title": "Hierarchy",
+    "description": "Hierarchy accordion",
+    "source": "https://www.shutterstock.com/image-vector/office-organizational-corporate-hierarchy-tree-chart-199692071",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Ing Andrej Kaprinay",
+    "tags": [
+      {
+        "title": "hierarchy",
+        "_id": "58909455b61c46e176e7eb82"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "tree",
+        "_id": "58bec069d084d5167a04ae55"
+      }
+    ]
+  },
+  "fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg": {
+    "title": "Spreadsheet (430x430)",
+    "description": "Spreadsheet (430x430)",
+    "source": "https://www.shutterstock.com/image-photo/stock-share-prices-data-analyzing-forex-224184241",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Mclek",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      }
+    ]
+  },
+  "26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg": {
+    "title": "Magnifying glass on data (430x430)",
+    "description": "Magnifying glass on data (430x430)",
+    "source": "https://www.flickr.com/photos/mjtmail/3008566512",
+    "licence": "CC-BY",
+    "attribution": "mjtmail (tiggy)",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      }
+    ]
+  },
+  "a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg": {
+    "title": "Key apps (430x430)",
+    "description": "Key apps (430x430)",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark\n",
+    "tags": [
+      {
+        "title": "Generic",
+        "_id": "584803254d7b7e82691e4ba2"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "58482a294d7b7e82691e4bc3"
+      }
+    ]
+  },
+  "f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg": {
+    "title": "Squares (430x430)",
+    "description": "Squares (430x430)",
+    "source": "https://www.shutterstock.com/image-illustration/colorful-cubes-four-levels-abstract-background-200818673?src=lb-36497927",
+    "licence": "Shutterstock standard licence",
+    "attribution": "April Cat",
+    "tags": [
+      {
+        "title": "Generic",
+        "_id": "584803254d7b7e82691e4ba2"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      }
+    ]
+  },
+  "4833f117f2b3d5f33f3f11c1dee9ed94a55acb4b.png": {
+    "title": "Sort and filter",
+    "description": "Sort and filter",
+    "tags": [
+      {
+        "title": "WB",
+        "_id": "584809c64d7b7e82691e4bb1"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      }
+    ]
+  },
+  "f4d2e10e93af5fd664243e179da73431dffa24f9.png": {
+    "title": "Formula",
+    "description": "Formula",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "WB",
+        "_id": "584809c64d7b7e82691e4bb1"
+      },
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      }
+    ]
+  },
+  "6abc8c7db30233d4ee4ec0dc22125a9fd0219ccd.png": {
+    "title": "Pivot tables",
+    "description": "Pivot tables",
+    "tags": [
+      {
+        "title": "cleaning",
+        "_id": "5847ffa04d7b7e82691e4b92"
+      },
+      {
+        "title": "WB",
+        "_id": "584809c64d7b7e82691e4bb1"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      }
+    ]
+  },
+  "42f0fafb85c3e9d3617a5fce8695c56466b78f6f.png": {
+    "title": "Analysis",
+    "description": "Analysis",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "WB",
+        "_id": "584809c64d7b7e82691e4bb1"
+      },
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      }
+    ]
+  },
+  "95916dd3fa40e71f215e130084d9adc240cf363b.jpg": {
+    "title": "Sorter (430x430)",
+    "description": "Sorter (430x430)\n",
+    "source": "https://www.flickr.com/photos/ellasdad/425813314",
+    "licence": "CC-BY",
+    "attribution": "Ella's Dad",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      },
+      {
+        "title": "blocks",
+        "_id": "58bebc1ad084d5167a04ae2c"
+      },
+      {
+        "title": "wood",
+        "_id": "58e397bcd084d5167a04c60a"
+      }
+    ]
+  },
+  "42cae611b9faff51566fabe51f7bfb9615f01211.jpg": {
+    "title": "Sorter (550x370)",
+    "description": "Sorter",
+    "source": "https://www.flickr.com/photos/ellasdad/425813314",
+    "licence": "CC-BY",
+    "attribution": "Ella's Dad",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      }
+    ]
+  },
+  "8da743e63307c09ebe6186924eb2f05870283ad2.jpg": {
+    "title": "Bridge columns (430x430)",
+    "description": "Bridge columns (430x430)",
+    "source": "https://www.flickr.com/photos/pkirtz/15400595821",
+    "licence": "CC-BY",
+    "attribution": "Groman123",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Linked",
+        "_id": "5848003c4d7b7e82691e4b9a"
+      }
+    ]
+  },
+  "d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg": {
+    "title": "Ladder (430x430)",
+    "description": "Ladder (430x430)",
+    "source": "http://www.shutterstock.com/pic-201870622.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Your Design",
+    "tags": [
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      }
+    ]
+  },
+  "029418c3d6a4a6087d14575d291bcb6ee5fa994c.jpg": {
+    "title": "Documents (430x430)",
+    "description": "Documents (430x430)",
+    "source": "https://www.flickr.com/photos/dantaylr/5530488320/in/photolist-9qHcuU-7X7AsE-8vDDiK-aEbPxa-c3V5iQ-9qEcBi-9qEcHc-9SdQJ6-78tFyw-9QL3D5-dhcgcP-9DZECa-7mjBuA-8Tvjsc-8hDuSz-rhMMZM-ceYiiA-ofprBy-aFqjTk-edX4Zn-4jHTqA-ceXXhf-8JjqyS-73Rmn9-cftVLN-8zjqWR-bcBuoz-cfuRgY-h6T5GF-8kLqqd-chuEMG-ceYdrh-ceXaRw-8S8NT6-9GQp44-pqtQVx-D5Lni-9GQoRK-6S4aRa-9YT9Fz-DstUFQ-e336BW-ApAEDK-eaCc1U-zrrF5D-aP17sH-aFH4zM-eawwGR-eawwf4-AK8HaF",
+    "licence": "CC-BY",
+    "attribution": "Dan Taylr",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "papers",
+        "_id": "584fe28f4e62ce485eb145be"
+      },
+      {
+        "title": "sheets",
+        "_id": "58e3bcabd084d5167a04c686"
+      }
+    ]
+  },
+  "d2bdbfbb07b24d7561e89b5ff069d5f6d6e39774.jpg": {
+    "title": "Sky scrapers",
+    "description": "Sky scrapers\n",
+    "source": "https://www.flickr.com/photos/kjarrett/10644544846",
+    "licence": "CC-BY",
+    "attribution": "Kevin Jarrett",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      },
+      {
+        "title": "Generic",
+        "_id": "584803254d7b7e82691e4ba2"
+      },
+      {
+        "title": "Global",
+        "_id": "584802d14d7b7e82691e4ba1"
+      },
+      {
+        "title": "Money",
+        "_id": "584806f34d7b7e82691e4bac"
+      }
+    ]
+  },
+  "e18fbb35774d2920e5db1bcc2fcba9c5dfd67533.png": {
+    "title": "Blog.png",
+    "description": "Credit: Business vector designed by Photoroyalty - Freepik.com\nSource: http://www.freepik.com/free-photos-vectors/business",
+    "tags": [
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Cartoon Set 1",
+        "_id": "5848025e4d7b7e82691e4b9f"
+      },
+      {
+        "title": "Communication",
+        "_id": "5848000d4d7b7e82691e4b95"
+      },
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      }
+    ]
+  },
+  "9f67f59bf913e59655585d0e2f6e050b3a048bca.jpg": {
+    "title": "promote.jpg",
+    "description": "promote",
+    "tags": [
+      {
+        "title": "Communication",
+        "_id": "5848000d4d7b7e82691e4b95"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      }
+    ]
+  },
+  "93089975ae667a03fedbc7cdd2e50af87afbed3b.gif": {
+    "title": "LGA.gif",
+    "description": "LGA logo ",
+    "tags": [
+      {
+        "title": "client logos",
+        "_id": "5847f8624d7b7e82691e4b8a"
+      },
+      {
+        "title": "LGA",
+        "_id": "5847f8634d7b7e82691e4b8b"
+      }
+    ]
+  },
+  "91d7d44849aaa32d953399c315d3338572889c74.png": {
+    "title": "ODI Burst theme colour",
+    "description": "Takes the theme colour as it's background colour",
+    "tags": []
+  },
+  "7a60285b6b24a9a072771eb1b039c037a3b49ead.png": {
+    "title": "website_430x430.png",
+    "description": " Business vector designed  \n",
+    "source": "http://www.freepik.com/free-photos-vectors/business",
+    "licence": "CC-BY",
+    "attribution": "http://www.freepik.com/free-photos-vectors/business",
+    "tags": [
+      {
+        "title": "website",
+        "_id": "584ed7124e62ce485eb14562"
+      },
+      {
+        "title": "Money",
+        "_id": "584806f34d7b7e82691e4bac"
+      },
+      {
+        "title": "Sport England",
+        "_id": "584802784d7b7e82691e4ba0"
+      }
+    ]
+  },
+  "487a92d1f0d603836df88c719b96ec30d2a6fad1.png": {
+    "title": "Dashboard Narrative",
+    "description": "Business vector ",
+    "source": "http://www.freepik.com/free-photos-vectors/business",
+    "licence": "CC-BY",
+    "attribution": "Photoroyalty - Freepik.com ",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Design",
+        "_id": "5848066f4d7b7e82691e4bab"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "584800d44d7b7e82691e4b9b"
+      },
+      {
+        "title": "Cartoon set 2",
+        "_id": "584803c74d7b7e82691e4ba6"
+      }
+    ]
+  },
+  "e303e33c52b96c12da48db19daab649529718970.png": {
+    "title": "summary-icon-lga-pink.png",
+    "description": "Summary clipboard",
+    "source": "http://www.shutterstock.com/pic-189810137.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kritchanut",
+    "tags": [
+      {
+        "title": "LGA",
+        "_id": "5847f8634d7b7e82691e4b8b"
+      },
+      {
+        "title": "Summary",
+        "_id": "58500e284e62ce485eb14623"
+      },
+      {
+        "title": "Clipboard",
+        "_id": "58500e264e62ce485eb14622"
+      }
+    ]
+  },
+  "7b26c3182c57927c34d776374088360456863df7.jpg": {
+    "title": "Fingerprint",
+    "description": "Fingerprint, data quality",
+    "source": "http://www.shutterstock.com/pic-54795127.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "robodread",
+    "tags": [
+      {
+        "title": "fingerprint",
+        "_id": "587e0989b61c46e176e7e1bc"
+      },
+      {
+        "title": "finger",
+        "_id": "589462d4fda9f5660ad841b2"
+      },
+      {
+        "title": "data quality",
+        "_id": "58beb7f9d084d5167a04ae10"
+      }
+    ]
+  },
+  "18f7dfef9329e251dd9d3b8920ee0a120b661a4d.jpg": {
+    "title": "Floating red block",
+    "description": "Floating red block",
+    "source": "https://www.shutterstock.com/image-illustration/infinite-white-cubes-red-one-representing-254316427",
+    "licence": "Shutterstock standard licence",
+    "attribution": "tostphoto",
+    "tags": [
+      {
+        "title": "block",
+        "_id": "58bee0a9d084d5167a04aea7"
+      },
+      {
+        "title": "red",
+        "_id": "5894b64ffda9f5660ad84533"
+      },
+      {
+        "title": "isolated",
+        "_id": "58bee0acd084d5167a04aea8"
+      },
+      {
+        "title": "alone",
+        "_id": "58bee0afd084d5167a04aea9"
+      }
+    ]
+  },
+  "ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg": {
+    "title": "Computer cloud",
+    "description": "Computer cloud",
+    "source": "https://www.shutterstock.com/image-vector/global-communication-concept-102447179",
+    "licence": "Shutterstock standard licence",
+    "attribution": "hoperan",
+    "tags": [
+      {
+        "title": "computer",
+        "_id": "587e3218b61c46e176e7e3ab"
+      },
+      {
+        "title": "cloud",
+        "_id": "587e3219b61c46e176e7e3ac"
+      },
+      {
+        "title": "screen",
+        "_id": "58beb8f3d084d5167a04ae18"
+      },
+      {
+        "title": "blue",
+        "_id": "5891d431b61c46e176e7f047"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      }
+    ]
+  },
+  "f0610341fe3a938c2e52a3481600858a4c5b5273.jpg": {
+    "title": "Bubbles process",
+    "description": "Bubbles process",
+    "source": "http://www.shutterstock.com/pic-203239417.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Ozerina Anna",
+    "tags": [
+      {
+        "title": "bubbles process",
+        "_id": "58bebb54d084d5167a04ae23"
+      },
+      {
+        "title": "success",
+        "_id": "58bebacad084d5167a04ae1f"
+      },
+      {
+        "title": "initiative",
+        "_id": "58bebb5bd084d5167a04ae24"
+      },
+      {
+        "title": "efficiency",
+        "_id": "589c74d7fda9f5660ad84a41"
+      },
+      {
+        "title": "readiness",
+        "_id": "58bebb7fd084d5167a04ae26"
+      },
+      {
+        "title": "structure",
+        "_id": "589c74d9fda9f5660ad84a42"
+      }
+    ]
+  },
+  "2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg": {
+    "title": "map markers",
+    "description": "map markers",
+    "source": "https://www.fixmystreet.com/",
+    "licence": "CC-BY",
+    "attribution": "Fixmystreet",
+    "tags": []
+  },
+  "eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg": {
+    "title": "Computer cloud",
+    "description": "Computer cloud",
+    "source": "https://www.shutterstock.com/image-vector/global-communication-concept-102447179",
+    "licence": "Shutterstock standard licence",
+    "attribution": "hoperan",
+    "tags": [
+      {
+        "title": "computer cloud",
+        "_id": "58beb8f1d084d5167a04ae17"
+      },
+      {
+        "title": "Icon",
+        "_id": "5848015e4d7b7e82691e4b9c"
+      },
+      {
+        "title": "blue",
+        "_id": "5891d431b61c46e176e7f047"
+      }
+    ]
+  },
+  "42b138ca58598195931fd55cd7d078d47f87a897.jpg": {
+    "title": "Data code",
+    "description": "Data code, blue",
+    "source": "https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Mclek",
+    "tags": [
+      {
+        "title": "length",
+        "_id": "58bedfc6d084d5167a04ae9d"
+      },
+      {
+        "title": "if",
+        "_id": "58bedfcbd084d5167a04ae9e"
+      },
+      {
+        "title": "break",
+        "_id": "58bedfccd084d5167a04ae9f"
+      },
+      {
+        "title": "for",
+        "_id": "58bedfced084d5167a04aea0"
+      },
+      {
+        "title": "blue",
+        "_id": "5891d431b61c46e176e7f047"
+      },
+      {
+        "title": "code",
+        "_id": "58889436b61c46e176e7e717"
+      },
+      {
+        "title": "format",
+        "_id": "588b507bb61c46e176e7e9c3"
+      }
+    ]
+  },
+  "573957752a5406198646932aca0d3797f675cd7f.jpg": {
+    "title": "documents_550x370.jpg",
+    "description": "550x370",
+    "tags": []
+  },
+  "141f01188e900b5e65e601e76fa1e974b672b02a.jpg": {
+    "title": "ice berg data",
+    "description": "ice berg data",
+    "tags": [
+      {
+        "title": "hidden data",
+        "_id": "58888feab61c46e176e7e6f6"
+      },
+      {
+        "title": "ice berg",
+        "_id": "58888fecb61c46e176e7e6f7"
+      }
+    ]
+  },
+  "7fec32b99da9f008a88d2622d258aaea82bf1513.jpg": {
+    "title": "Planes",
+    "description": "Planes",
+    "source": "https://www.shutterstock.com/image-vector/background-colorful-airplanes-vector-illustration-103013084?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Laralova",
+    "tags": [
+      {
+        "title": "planes",
+        "_id": "5888907eb61c46e176e7e6fe"
+      },
+      {
+        "title": "arrows",
+        "_id": "58889080b61c46e176e7e6ff"
+      },
+      {
+        "title": "lines",
+        "_id": "58bed78ed084d5167a04ae72"
+      }
+    ]
+  },
+  "2164576f217243b4bc9bfb61f6c5f8a5b9bdbc87.jpg": {
+    "title": "globe wolrd",
+    "description": "globe world",
+    "source": "http://www.shutterstock.com/pic-144137602",
+    "licence": "Shutterstock standard licence",
+    "attribution": "David Arts",
+    "tags": [
+      {
+        "title": "globe",
+        "_id": "5888927eb61c46e176e7e709"
+      }
+    ]
+  },
+  "8127cf10d6151128ccbbe52256cf9d9c2f0a5ce3.jpg": {
+    "title": "Flying pictures",
+    "description": "Flying pictures",
+    "source": "http://www.shutterstock.com/pic-79079872",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Angela Waye",
+    "tags": [
+      {
+        "title": "flying",
+        "_id": "588892a2b61c46e176e7e70c"
+      },
+      {
+        "title": "pictures",
+        "_id": "588892a4b61c46e176e7e70d"
+      }
+    ]
+  },
+  "60460faba5954eed63e91fdfcc51e2abb1ed200b.jpg": {
+    "title": "computer code",
+    "description": "computer code",
+    "source": "https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978",
+    "licence": "Shutterstock standard licence",
+    "attribution": "spaxiax",
+    "tags": [
+      {
+        "title": "code",
+        "_id": "58889436b61c46e176e7e717"
+      }
+    ]
+  },
+  "9a8689446ed8573abc470b29943634d776fa4795.jpg": {
+    "title": "Magnifying glass people",
+    "description": "Magnifying glass people",
+    "source": "http://www.shutterstock.com/pic-203736538",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Digital Storm",
+    "tags": [
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "26f1e8365e286d18494260e8fe739a635cb94f34.png": {
+    "title": "Summary icon edsa",
+    "description": "Summary icon edsa",
+    "tags": [
+      {
+        "title": "Clipboard",
+        "_id": "58500e264e62ce485eb14622"
+      },
+      {
+        "title": "summary icon",
+        "_id": "5888adaeb61c46e176e7e7f6"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
+  "b8aa9c079e94b366c92cfadb2c45dcc323c68aca.png": {
+    "title": "Summary icon transparent theme color",
+    "description": "Summary icon transparent theme color",
+    "tags": []
+  },
+  "43c5a311e1345dcfb215982cd09b9bb042fb5add.png": {
+    "title": "Summary icon theme color",
+    "description": "Summary icon theme color",
+    "tags": []
+  },
+  "fdeda954d2e68fdc14ccff6e89926afe05c49d72.png": {
+    "title": "Magnifying glass ",
+    "description": "Magnifying glass",
+    "source": "https://www.shutterstock.com/image-vector/marketing-data-analytics-analyzing-statistics-chart-230887714",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Bloomua ",
+    "tags": [
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "chart",
+        "_id": "588a003eb61c46e176e7e8ab"
+      }
+    ]
+  },
+  "e2c2011c9ba973cec7573535fe786c58dca96518.jpg": {
+    "title": "Lines boxes graph",
+    "description": "Lines boxes graph",
+    "source": "https://www.shutterstock.com/image-vector/abstract-circuit-city-computer-high-technology-128352227",
+    "licence": "Shutterstock standard licence",
+    "attribution": "vs148",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      }
+    ]
+  },
+  "52602f16682ed9e87ec9785f93059e164b1f261a.jpg": {
+    "title": "Numbers green",
+    "description": "Numbers green",
+    "source": "https://www.shutterstock.com/image-vector/numbers-background-blue-abstract-75494491",
+    "licence": "Shutterstock standard licence",
+    "attribution": "vlastas",
+    "tags": [
+      {
+        "title": "numbers",
+        "_id": "588a020fb61c46e176e7e8bc"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      }
+    ]
+  },
+  "f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg": {
+    "title": "odi-005_accordian_large.jpg",
+    "description": "Accordion people talking",
+    "source": "https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791",
+    "licence": "Shutterstock standard licence",
+    "attribution": "tai11",
+    "tags": [
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "talking",
+        "_id": "588a0581b61c46e176e7e8c5"
+      },
+      {
+        "title": "accordion",
+        "_id": "588a0583b61c46e176e7e8c6"
+      }
+    ]
+  },
+  "4462daa4541eb11f9a09ea005d9f160480451597.jpg": {
+    "title": "Grains",
+    "description": "grains, lentils, rice",
+    "source": "https://www.shutterstock.com/image-photo/variation-lentils-beans-peas-grain-soybeans-94664593",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Madlen",
+    "tags": [
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      },
+      {
+        "title": "environment",
+        "_id": "58515f914e62ce485eb1466e"
+      },
+      {
+        "title": "grains",
+        "_id": "58515f924e62ce485eb1466f"
+      },
+      {
+        "title": "rice",
+        "_id": "588a06a1b61c46e176e7e8d3"
+      },
+      {
+        "title": "lentils",
+        "_id": "588a06a5b61c46e176e7e8d4"
+      }
+    ]
+  },
+  "052ae206817001d25e571d74799a4785a9397bd0.jpg": {
+    "title": "OpenStreetMap ITO Open Map",
+    "description": "OpenStreetMap ITO Open Map",
+    "source": "http://www.itoworld.com/product/visualisation-communication",
+    "licence": "CC-BY-SA",
+    "attribution": "Ito World Ltd",
+    "tags": [
+      {
+        "title": "openmap",
+        "_id": "588a07abb61c46e176e7e8dc"
+      },
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      },
+      {
+        "title": "street",
+        "_id": "588a07afb61c46e176e7e8dd"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      }
+    ]
+  },
+  "a50b46f4a8bcfcd4c155cee6fb75d73848404523.png": {
+    "title": "magnifying glass question",
+    "description": "magnifying glass question",
+    "source": "https://www.shutterstock.com/image-vector/marketing-data-analytics-analyzing-statistics-chart-230887714",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Bloomau",
+    "tags": [
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      },
+      {
+        "title": "question",
+        "_id": "588a0b40b61c46e176e7e8eb"
+      }
+    ]
+  },
+  "181d91f0a221244ed4b1d3a8b9b79dbda2af5933.png": {
+    "title": "Footer",
+    "description": "Footer clipboard",
+    "source": "http://www.shutterstock.com/pic-189810137.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kritchanut",
+    "tags": [
+      {
+        "title": "Clipboard",
+        "_id": "58500e264e62ce485eb14622"
+      },
+      {
+        "title": "footer",
+        "_id": "588a2cebb61c46e176e7e90f"
+      }
+    ]
+  },
+  "60f5321e92f1c6ea08493dd85e5da0f6b47e654b.jpg": {
+    "title": "narrating story ",
+    "description": "narrating story \n",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Eightonesix / Freepik",
+    "tags": [
+      {
+        "title": "narrating",
+        "_id": "588b1c83b61c46e176e7e93e"
+      },
+      {
+        "title": "story",
+        "_id": "588b1784b61c46e176e7e92f"
+      }
+    ]
+  },
+  "d1ef206854e8e694964194343e871fb1e3daad9f.jpg": {
+    "title": "Clock ",
+    "description": "Clock",
+    "source": "http://www.freepik.com/free-vector/colorful-clock_794576.htm#term=clock&page=1&position=13",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": [
+      {
+        "title": "Clock",
+        "_id": "588b2c8ab61c46e176e7e95a"
+      },
+      {
+        "title": "time",
+        "_id": "588b2c8bb61c46e176e7e95b"
+      }
+    ]
+  },
+  "b7e57e09865eb9a9da92c9ad65f9a347bf997791.png": {
+    "title": "data journalism process circles",
+    "description": "data journalism process circles",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Data_driven_journalism_process.jpg",
+    "licence": "CC-BY",
+    "attribution": "Mirko Lorenz",
+    "tags": [
+      {
+        "title": "data journalism",
+        "_id": "588b3458b61c46e176e7e975"
+      },
+      {
+        "title": "process",
+        "_id": "588b345ab61c46e176e7e976"
+      },
+      {
+        "title": "circles",
+        "_id": "588b345cb61c46e176e7e977"
+      }
+    ]
+  },
+  "837cf7949b71d7587c0af920077568b259b45900.jpg": {
+    "title": "globe",
+    "description": "globe",
+    "source": "http://www.shutterstock.com/pic-144137602",
+    "licence": "Shutterstock standard licence",
+    "attribution": "David Arts",
+    "tags": [
+      {
+        "title": "globe",
+        "_id": "5888927eb61c46e176e7e709"
+      }
+    ]
+  },
+  "fa4f8ebbd4c99e24a5f92eece50097782c9707bd.jpg": {
+    "title": "journalism format",
+    "description": "journalism format\n",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Designed by Photoroyalty",
+    "tags": [
+      {
+        "title": "journalism",
+        "_id": "588b507ab61c46e176e7e9c2"
+      },
+      {
+        "title": "format",
+        "_id": "588b507bb61c46e176e7e9c3"
+      }
+    ]
+  },
+  "eb3749e20dc0c2536023369a18a343452035d4e5.jpg": {
+    "title": "beginning middle end",
+    "description": "beginning middle end",
+    "tags": [
+      {
+        "title": "beginning",
+        "_id": "588b51d8b61c46e176e7e9d3"
+      },
+      {
+        "title": "middle",
+        "_id": "588b51d9b61c46e176e7e9d4"
+      },
+      {
+        "title": "end",
+        "_id": "588b51dab61c46e176e7e9d5"
+      }
+    ]
+  },
+  "eccf2427aa0ac445191dcf082e37032c66d25a45.jpg": {
+    "title": "Newspaper",
+    "description": "Newspaper",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": [
+      {
+        "title": "Newspaper",
+        "_id": "588b51f8b61c46e176e7e9d9"
+      }
+    ]
+  },
+  "0f276a90dab52a9118849750823256de722bc2dd.jpg": {
+    "title": "hand mail links",
+    "description": "hand mail links\n\n",
+    "source": "\"http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": " Jannoon028",
+    "tags": [
+      {
+        "title": "hand",
+        "_id": "588b52abb61c46e176e7e9df"
+      },
+      {
+        "title": "mail",
+        "_id": "588b52acb61c46e176e7e9e0"
+      },
+      {
+        "title": "links",
+        "_id": "588b52aeb61c46e176e7e9e1"
+      }
+    ]
+  },
+  "1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg": {
+    "title": "people talking",
+    "description": "people talking",
+    "source": "https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791",
+    "licence": "Shutterstock standard licence",
+    "attribution": "tai11",
+    "tags": [
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "talking",
+        "_id": "588a0581b61c46e176e7e8c5"
+      }
+    ]
+  },
+  "1b33f1c8a7fa8128d4f6048d1c9d133b044bf1b9.jpg": {
+    "title": "Broadcast radio",
+    "description": "Broadcast radio\n",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": [
+      {
+        "title": "Broadcast",
+        "_id": "588b5582b61c46e176e7e9f2"
+      },
+      {
+        "title": "radio",
+        "_id": "588b5583b61c46e176e7e9f3"
+      }
+    ]
+  },
+  "d7a487640199afa9851a47a50d91fd638dec930b.jpg": {
+    "title": "News paper",
+    "description": "Retro newspaper illustration",
+    "source": "http://www.freepik.com/free-vector/retro-newspaper-illustration_725027.htm#term=news&page=1&position=23",
+    "licence": "CC-BY-SA",
+    "attribution": "Freepik",
+    "tags": [
+      {
+        "title": "News paper",
+        "_id": "588b560bb61c46e176e7ea1b"
+      }
+    ]
+  },
+  "7ff8b3184892564b2714b35ce1d5976d82cbffea.png": {
+    "title": " Business vector ",
+    "description": " Business vector ",
+    "source": "http://www.freepik.com/free-photos-vectors/business",
+    "licence": "CC-BY",
+    "attribution": "Photoroyalty",
+    "tags": [
+      {
+        "title": "Blog",
+        "_id": "588b719cb61c46e176e7ea43"
+      },
+      {
+        "title": "abc",
+        "_id": "588b719eb61c46e176e7ea44"
+      },
+      {
+        "title": "school",
+        "_id": "588b71a1b61c46e176e7ea45"
+      },
+      {
+        "title": "education",
+        "_id": "584fe2684e62ce485eb145b8"
+      },
+      {
+        "title": "writing",
+        "_id": "588b71a4b61c46e176e7ea46"
+      },
+      {
+        "title": "story",
+        "_id": "588b1784b61c46e176e7e92f"
+      },
+      {
+        "title": "journalism",
+        "_id": "588b507ab61c46e176e7e9c2"
+      },
+      {
+        "title": "finding stories",
+        "_id": "588a0198b61c46e176e7e8b6"
+      }
+    ]
+  },
+  "d67a7ab25ce88d723cd840d5c7ca10a38b27db75.jpg": {
+    "title": "network.jpg",
+    "description": "people network",
+    "source": "http://www.shutterstock.com/pic-187711424.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "bluebay",
+    "tags": [
+      {
+        "title": "green",
+        "_id": "58bee049d084d5167a04aea3"
+      },
+      {
+        "title": "network",
+        "_id": "584ff4d94e62ce485eb145c2"
+      },
+      {
+        "title": "connect",
+        "_id": "58bee05dd084d5167a04aea5"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "5624fd7a19a9a820a965e5f793396f8dee441856.png": {
+    "title": "Building app",
+    "description": "building app",
+    "source": "https://www.shutterstock.com/image-vector/flat-3d-isometric-mobile-uiux-design-234298726?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Sentavio",
+    "tags": []
+  },
+  "4b1bdd7961e9c3af37686c9dddf188b8d7a044b6.jpg": {
+    "title": "iPhone narrative",
+    "description": "Usability narrative",
+    "source": "https://www.shutterstock.com/image-vector/flat-3d-isometric-mobile-uiux-design-234298726?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Sentavio",
+    "tags": [
+      {
+        "title": "usability",
+        "_id": "589076bbb61c46e176e7eb72"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      }
+    ]
+  },
+  "c6a77d8950ad0c44a09f032320b1d02dc771be27.jpg": {
+    "title": "Dashboard",
+    "description": "Narrative management",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=254601265&src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Meilun",
+    "tags": [
+      {
+        "title": "management",
+        "_id": "58907808b61c46e176e7eb75"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      },
+      {
+        "title": "dashboard",
+        "_id": "58907829b61c46e176e7eb76"
+      }
+    ]
+  },
+  "3cb2758010e55c79683ddf0b647cbb8148fb9943.jpg": {
+    "title": "Access granted",
+    "description": "Access narrative",
+    "source": "https://www.shutterstock.com/image-photo/access-granted-internet-login-238197199?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Brian Senic",
+    "tags": [
+      {
+        "title": "access",
+        "_id": "589078b1b61c46e176e7eb79"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      }
+    ]
+  },
+  "3870d2023395291d5f1bd5c0837f8178067fd665.jpg": {
+    "title": "Glasses",
+    "description": "Tabular interactive",
+    "source": "https://www.shutterstock.com/image-photo/tabulation-statistical-data-business-analysis-office-262874696?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Benjaminec",
+    "tags": [
+      {
+        "title": "table",
+        "_id": "58908f43b61c46e176e7eb7e"
+      },
+      {
+        "title": "glasses",
+        "_id": "58908f45b61c46e176e7eb7f"
+      },
+      {
+        "title": "numbers",
+        "_id": "588a020fb61c46e176e7e8bc"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      }
+    ]
+  },
+  "df4007a0c25181a3818f1a0d371970feb6f1761b.jpg": {
+    "title": "hierarchy",
+    "description": "hierarchical narrative",
+    "source": "https://www.shutterstock.com/image-vector/abstract-famili-tree-illustration-103051607?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Tovovan",
+    "tags": [
+      {
+        "title": "hierarchy",
+        "_id": "58909455b61c46e176e7eb82"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "459d2295255e21bf83e51cc8f9ff550248735286.jpg": {
+    "title": "Network",
+    "description": "Network narrative",
+    "source": "https://www.shutterstock.com/image-vector/illustration-network-eps-8-136115477?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Ovchinnkov Vladimir",
+    "tags": [
+      {
+        "title": "network",
+        "_id": "584ff4d94e62ce485eb145c2"
+      },
+      {
+        "title": "narrative",
+        "_id": "588a0115b61c46e176e7e8b1"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "9bda8ce0c4968db295288f0ebc28aac6f0caa2d4.jpg": {
+    "title": "CSV",
+    "description": "CSV",
+    "source": "www.shutterstock.com/pic.mhtml?id=205002868&src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Blan-k",
+    "tags": [
+      {
+        "title": "csv",
+        "_id": "5890ba9cb61c46e176e7eb91"
+      },
+      {
+        "title": "file",
+        "_id": "5890ba9db61c46e176e7eb92"
+      }
+    ]
+  },
+  "28d509ca037dda8db7ad013059903f4f33da1bd2.jpg": {
+    "title": "Pin",
+    "description": "Pin on a map\n",
+    "source": "http://www.shutterstock.com/pic-53095825.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Mikael Damkier",
+    "tags": [
+      {
+        "title": "pin",
+        "_id": "5890bb55b61c46e176e7eb99"
+      },
+      {
+        "title": "Map",
+        "_id": "584808d54d7b7e82691e4bae"
+      }
+    ]
+  },
+  "89e8e924b41cb4ffb3636822955fe63929c0ae46.png": {
+    "title": "Hierarchy",
+    "description": "Hierarchy question\n",
+    "source": "http://businesscasestudies.co.uk/unison/developing-responsiveness-through-organisational-structure/job-roles-within-a-trade-union.html#axzz3eADPmy4F",
+    "licence": "CC-BY",
+    "attribution": "UNISON ",
+    "tags": [
+      {
+        "title": "hierarchy",
+        "_id": "58909455b61c46e176e7eb82"
+      },
+      {
+        "title": "question",
+        "_id": "588a0b40b61c46e176e7e8eb"
+      }
+    ]
+  },
+  "752c83122ba9687444626dafd62ef02ce81e0b10.jpg": {
+    "title": "Question mark",
+    "description": "Question mark",
+    "source": "www.shutterstock.com/pic.mhtml?id=205002868&src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Blan-k",
+    "tags": [
+      {
+        "title": "question",
+        "_id": "588a0b40b61c46e176e7e8eb"
+      },
+      {
+        "title": "question mark",
+        "_id": "588b27f3b61c46e176e7e948"
+      }
+    ]
+  },
+  "7177a18e3574ba8a1bceedf9c5cbb15f6d4bcba0.png": {
+    "title": "Lloyd's of London logo",
+    "description": "Lloyd's of London logo",
+    "tags": []
+  },
+  "e48dd727ee9188257b485fd243a631f1e9321058.jpg": {
+    "title": "Running track",
+    "description": "Running track",
+    "source": "https://www.flickr.com/photos/uncleweed/3985483246",
+    "licence": "CC-BY-SA",
+    "attribution": "Dave O",
+    "tags": []
+  },
+  "c5e430b3d8212f076be44079c391dd6fbb7d8092.png": {
+    "title": "Colour blindness",
+    "description": "Colour blindness ",
+    "source": "theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "Dave Tarrant",
+    "tags": []
+  },
+  "8d4fc8a54c0e053b9d58bd56b580a607d41b47c6.xls": {
+    "title": "HFStarRating6Regions-clean.xls",
+    "description": "Tanzania Health Facility Star Ratings - clean",
+    "tags": []
+  },
+  "50acadab73c9617dbb20e58de45e13c61bd65dd7.png": {
+    "title": "How did Obama do?",
+    "description": "How did Obama do?",
+    "source": "https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0",
+    "licence": "All rights reserved",
+    "attribution": "NY Times",
+    "tags": []
+  },
+  "c56d1263c91e83368f4417937616c16cb704c7b1.png": {
+    "title": "Guardian in flight",
+    "description": "Guardian in flight",
+    "tags": []
+  },
+  "1359c7d0c8e43a9f4c60438b8039af1d00e1b216.jpg": {
+    "title": "API",
+    "description": "API",
+    "source": "https://www.shutterstock.com/image-photo/data-bits-computer-shadow-dark-vignette-231672367",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Imagentle",
+    "tags": [
+      {
+        "title": "api",
+        "_id": "58948b2cfda9f5660ad8421c"
+      }
+    ]
+  },
+  "a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg": {
+    "title": "Magnifying glass",
+    "description": "Magnifying glass",
+    "source": "https://www.shutterstock.com/image-vector/search-icon-loupe-symbol-application-button-180739841?src=lb-36497927",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Tarchyshnik Andrei",
+    "tags": [
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      }
+    ]
+  },
+  "7d98d42e0b0267f4c333e2fec08be8e4e39bb3ec.jpg": {
+    "title": "starfish red",
+    "description": "Starfish",
+    "source": "https://www.shutterstock.com/image-photo/caribbean-starfish-on-white-background-109300883",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kletr",
+    "tags": [
+      {
+        "title": "starfish",
+        "_id": "5894ad60fda9f5660ad8425e"
+      },
+      {
+        "title": "star",
+        "_id": "5894ad5efda9f5660ad8425d"
+      },
+      {
+        "title": "fish",
+        "_id": "5894ad5dfda9f5660ad8425c"
+      },
+      {
+        "title": "red",
+        "_id": "5894b64ffda9f5660ad84533"
+      }
+    ]
+  },
+  "4b9908969dc041bf339cf058c604f831175f8ef8.jpg": {
+    "title": "data spectrum.jpg",
+    "description": "Data spectrum",
+    "source": "http://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Spectrum (learning edition)",
+    "tags": [
+      {
+        "title": "ODI",
+        "_id": "58988908fda9f5660ad84547"
+      },
+      {
+        "title": "Data spectrum",
+        "_id": "5898890cfda9f5660ad84548"
+      }
+    ]
+  },
+  "3b66beb92878268fd90bf52b67cb10c55f741f17.jpg": {
+    "title": "bubbles process.jpg",
+    "description": "bubbles process, 430 x 300",
+    "source": "https://www.shutterstock.com/image-vector/flat-style-vector-icons-set-mobile-203239417",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Ozerina Anna",
+    "tags": [
+      {
+        "title": "bubbles",
+        "_id": "589c74d3fda9f5660ad84a40"
+      },
+      {
+        "title": "process",
+        "_id": "588b345ab61c46e176e7e976"
+      },
+      {
+        "title": "efficiency",
+        "_id": "589c74d7fda9f5660ad84a41"
+      },
+      {
+        "title": "structure",
+        "_id": "589c74d9fda9f5660ad84a42"
+      },
+      {
+        "title": "readiness",
+        "_id": "58bebb7fd084d5167a04ae26"
+      },
+      {
+        "title": "success",
+        "_id": "58bebacad084d5167a04ae1f"
+      }
+    ]
+  },
+  "87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg": {
+    "title": "strategy_square.jpg",
+    "description": "Strategy, EDP Core 13, why do we need open data?",
+    "tags": [
+      {
+        "title": "Strategy",
+        "_id": "584ff6004e62ce485eb145cb"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "ideas",
+        "_id": "589da4abfda9f5660ad84a55"
+      },
+      {
+        "title": "need",
+        "_id": "589da4acfda9f5660ad84a56"
+      },
+      {
+        "title": "creativity",
+        "_id": "584ecdbe4e62ce485eb1454e"
+      }
+    ]
+  }
+}

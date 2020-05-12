@@ -1,0 +1,40 @@
+[
+  {
+    "title": "1. What is data?",
+    "displayTitle": "1. What is data?",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "58a423b9fda9f5660ad8508b",
+    "_graphic": {
+      "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "alt": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_bookmarking": {
+      "_level": "page",
+      "_isEnabled": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  }
+]

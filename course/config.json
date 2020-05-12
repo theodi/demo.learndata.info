@@ -1,0 +1,81 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "58a423bafda9f5660ad85254",
+  "__v": 0,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": false
+  },
+  "_courseId": "58a423b9fda9f5660ad85081",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "screenSize": {
+    "small": 480,
+    "medium": 480,
+    "large": 1280
+  },
+  "_logging": {
+    "_isEnabled": false,
+    "_level": null,
+    "_console": false
+  },
+  "_devtools": {
+    "_isEnabled": true
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": false,
+      "_requireAssessmentPassed": true,
+      "_shouldSubmitScore": true,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "completed",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "build": {
+    "includes": [
+      "adapt-contrib-boxMenu",
+      "579b741bf399990a1aefebe2",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-mcq",
+      "adapt-contrib-narrative",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-accordion",
+      "adapt-contrib-media",
+      "adapt-contrib-assessmentResults",
+      "adapt-contrib-spoor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-contrib-assessment",
+      "adapt-contrib-bookmarking",
+      "adapt-devtools",
+      "adapt-odi-licence",
+      "adapt-contrib-aboutPage"
+    ]
+  }
+}
