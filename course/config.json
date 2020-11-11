@@ -1,19 +1,32 @@
 {
   "_defaultLanguage": "en",
   "_defaultDirection": "ltr",
+  "_fixes": {
+    "_imgLazyLoad": true
+  },
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "_id": "58a423bafda9f5660ad85254",
-  "__v": 0,
+  "_disableAnimationFor": [],
+  "_id": "5ef06abd31bc1e106f20cb7e",
+  "__v": 27,
   "_accessibility": {
     "_isEnabled": false,
-    "_isEnabledOnTouchDevices": false,
-    "_shouldSupportLegacyBrowsers": true,
     "_isTextProcessorEnabled": false,
-    "_isSkipNavigationEnabled": false
+    "_isSkipNavigationEnabled": false,
+    "_ariaLevels": {
+      "_menu": 1,
+      "_menuGroup": 2,
+      "_menuItem": 2,
+      "_page": 1,
+      "_article": 2,
+      "_block": 3,
+      "_component": 4,
+      "_componentItem": 5,
+      "_notify": 1
+    }
   },
-  "_courseId": "58a423b9fda9f5660ad85081",
+  "_courseId": "5ef06abd31bc1e106f20cb7d",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -27,23 +40,27 @@
   "_logging": {
     "_isEnabled": false,
     "_level": null,
-    "_console": false
+    "_console": false,
+    "_warnFirstOnly": true
   },
-  "_devtools": {
-    "_isEnabled": true
+  "_completionCriteria": {
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
   },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
-      "_requireCourseCompleted": false,
-      "_requireAssessmentPassed": true,
       "_shouldSubmitScore": true,
       "_shouldStoreResponses": true,
-      "_shouldRecordInteractions": false
+      "_shouldRecordInteractions": true
     },
     "_reporting": {
       "_onTrackingCriteriaMet": "completed",
-      "_onAssessmentFailure": "completed",
+      "_onAssessmentFailure": "failed",
       "_resetStatusOnLanguageChange": false
     },
     "_advancedSettings": {
@@ -53,29 +70,13 @@
       "_maxCommitRetries": 5,
       "_commitRetryDelay": 2000,
       "_suppressErrors": false,
-      "_commitOnVisibilityChangeHidden": true
+      "_commitOnVisibilityChangeHidden": true,
+      "_manifestIdentifier": "adapt_manifest",
+      "_exitStateIfIncomplete": "auto",
+      "_exitStateIfComplete": "auto"
     }
   },
-  "build": {
-    "includes": [
-      "adapt-contrib-boxMenu",
-      "579b741bf399990a1aefebe2",
-      "adapt-contrib-text",
-      "adapt-contrib-graphic",
-      "adapt-contrib-mcq",
-      "adapt-contrib-narrative",
-      "adapt-contrib-hotgraphic",
-      "adapt-contrib-accordion",
-      "adapt-contrib-media",
-      "adapt-contrib-assessmentResults",
-      "adapt-contrib-spoor",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
-      "adapt-contrib-assessment",
-      "adapt-contrib-bookmarking",
-      "adapt-devtools",
-      "adapt-odi-licence",
-      "adapt-contrib-aboutPage"
-    ]
+  "_devtools": {
+    "_isEnabled": true
   }
 }

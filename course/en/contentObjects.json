@@ -1,10 +1,13 @@
 [
   {
     "title": "1. What is data?",
-    "displayTitle": "1. What is data?",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
+    "subtitle": "",
     "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -13,28 +16,66 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "58a423b9fda9f5660ad8508b",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5ef06abd31bc1e106f20cb7f",
     "_graphic": {
-      "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
-      "alt": ""
+      "alt": "",
+      "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg"
     },
     "_parentId": "course",
     "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
+      "_isEnabled": true,
       "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_bookmarking": {
-      "_level": "page",
-      "_isEnabled": true
-    },
-    "_ODILicence": {
-      "_items": []
+      "_isEnabled": true,
+      "_level": "page"
     },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   }
 ]
