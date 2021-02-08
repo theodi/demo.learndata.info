@@ -23,7 +23,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -31,22 +31,28 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " ",
-    "displayTitle": " ",
+    "title": " Types of data",
+    "displayTitle": "",
     "body": "",
     "_id": "5ef06abe31bc1e106f20cb93",
     "_layout": "right",
     "_parentId": "5ef06abe31bc1e106f20cb8d",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
+      "alt": "",
       "large": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
-      "alt": ""
+      "small": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
+      "attribution": ""
     }
   },
   {
@@ -79,7 +85,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -87,22 +93,28 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " ",
-    "displayTitle": " ",
+    "title": " Why do we need data?",
+    "displayTitle": "",
     "body": "",
     "_id": "5ef06abe31bc1e106f20cb99",
     "_layout": "left",
     "_parentId": "5ef06abe31bc1e106f20cb8f",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "alt": "",
       "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
-      "alt": ""
+      "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "attribution": ""
     }
   },
   {
@@ -190,7 +202,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -224,7 +236,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -232,7 +244,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Component title",
+    "title": "Clipboard",
     "displayTitle": "",
     "body": "",
     "_id": "5ef06abe31bc1e106f20cba0",
@@ -266,19 +278,28 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " ",
-    "displayTitle": " ",
+    "title": " Square image",
+    "displayTitle": "",
     "body": "",
     "_id": "5ef06abe31bc1e106f20cba3",
     "_layout": "right",
     "_parentId": "5ef06abe31bc1e106f20cb90",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
-      "large": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
-      "alt": ""
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -304,7 +325,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "",
@@ -313,11 +335,12 @@
     "_items": [
       {
         "title": "Data",
+        "_ariaLevel": 0,
         "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
         "_graphic": {
-          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
         },
         "strapline": "Data"
       },
@@ -641,7 +664,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -649,22 +672,28 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " ",
-    "displayTitle": " ",
+    "title": " Why do we need data",
+    "displayTitle": "",
     "body": "",
     "_id": "5ef06abe31bc1e106f20cbb1",
     "_layout": "left",
     "_parentId": "5ef06abe31bc1e106f20cb91",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "alt": "",
       "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
-      "alt": ""
+      "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "attribution": ""
     }
   },
   {
@@ -829,7 +858,7 @@
     "_disableAccessibilityState": false,
     "title": "Demo only",
     "displayTitle": "Demo only",
-    "body": "<p>This is a demo SCORM object provided by the Open Data Institute in order to test the technical integration into learning management systems.<strong> </strong></p><p><strong>It is not a content or theme demonstration. Content and look and feed is&nbsp;deliberately rough to act as a watermark.&nbsp;</strong></p><p>The developer tools cog (top right) enables the testing of the core functionality of the SCORM object without having the manually complete the lesson each time.&nbsp;</p>",
+    "body": "<p>This is a demo SCORM object provided by the Open Data Institute in order to test the technical integration into learning management systems.<strong> </strong></p><p><strong>It is not a content or theme demonstration. Content and look and feed is&nbsp;deliberately rough to act as a watermark.&nbsp;</strong></p><p>The developer tools cog (top right) enables the testing of the core functionality of the SCORM object without having the manually complete the lesson each time.&nbsp;</p><p>Within this package you will also find a couple of grey images that give dimensions for the square and rectangular images used consistently throughout.&nbsp;</p>",
     "_id": "5ef06abe31bc1e106f20cbb7",
     "_parentId": "5ef06abd31bc1e106f20cb89",
     "_type": "component",
@@ -840,7 +869,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },

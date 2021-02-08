@@ -8,29 +8,29 @@
   "_htmlClasses": "",
   "_latestTrackingId": 14,
   "_buttons": {
-    "disabledAriaLabel": "This button is disabled at the moment",
-    "remainingAttemptText": "final attempt",
-    "remainingAttemptsText": "remaining attempts",
-    "_showFeedback": {
-      "ariaLabel": "Show feedback",
-      "buttonText": "Show feedback"
-    },
-    "_hideCorrectAnswer": {
-      "ariaLabel": "Hide correct answer",
-      "buttonText": "Hide correct answer"
-    },
-    "_showCorrectAnswer": {
-      "ariaLabel": "Show correct answer",
-      "buttonText": "Show correct answer"
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
     },
     "_reset": {
-      "ariaLabel": "Reset",
-      "buttonText": "Reset"
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
     },
-    "_submit": {
-      "ariaLabel": "Submit",
-      "buttonText": "Submit"
-    }
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_classes": "",
   "_requireCompletionOf": -1,
@@ -63,23 +63,20 @@
       }
     },
     "_components": {
-      "_media": {
-        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
-        "skipToTranscript": "Skip to transcript"
-      },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
-      },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
       "_text": {
         "ariaRegion": ""
       },
       "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "skipToTranscript": "Skip to transcript"
       },
       "_hotgraphic": {
         "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
@@ -103,8 +100,13 @@
       "_gmcq": {
         "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       },
-      "_dragndrop": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       }
     },
     "_extensions": {
@@ -157,14 +159,14 @@
   "_type": "course",
   "themeVariables": {
     "_global": {
-      "max-width": "1024px",
+      "max-width": "1200px",
       "device-width-small": "520px",
-      "device-width-medium": "520px",
-      "device-width-large": "900px",
+      "device-width-medium": "900px",
+      "device-width-large": "1024px",
       "title-family": "'Open Sans', Helvetica, Arial, sans-serif",
       "body-family": "'Open Sans', Helvetica, Arial, sans-serif",
       "btn-family": "'Open Sans', Helvetica, Arial, sans-serif",
-      "font-color": "#000000",
+      "font-color": "#4d4d4d",
       "font-color-inverted": "#ffffff",
       "link": "",
       "link-inverted": "",
@@ -173,43 +175,43 @@
     },
     "_themeLogo": {
       "theme-logo": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "theme-logo-top-padding": "1rem",
-      "theme-logo-width": "80%"
+      "theme-logo-top-padding": "0rem",
+      "theme-logo-width": "75%"
     },
     "_colors": {
-      "color-one": "#ff0000",
+      "color-one": "#00b6ff",
       "color-one-inverted": "#ffffff",
-      "color-two": "#de4a8d",
+      "color-two": "#f9bc26",
       "color-two-inverted": "#ffffff",
-      "color-three": "#7d82be",
+      "color-three": "#ff6700",
       "color-three-inverted": "#ffffff",
-      "color-four": "#ff9000",
+      "color-four": "#0dbc37",
       "color-four-inverted": "#ffffff",
-      "color-five": "#de4a8d",
+      "color-five": "#722ea5",
       "color-five-inverted": "#ffffff",
-      "color-six": "#ff6600",
+      "color-six": "#2254f4",
       "color-six-inverted": "#ffffff",
-      "color-seven": "#333666",
+      "color-seven": "#d60303",
       "color-seven-inverted": "#ffffff",
-      "color-eight": "#006699",
+      "color-eight": "#ef3aab",
       "color-eight-inverted": "#ffffff",
-      "color-nine": "#006633",
+      "color-nine": "#e6007c",
       "color-nine-inverted": "#ffffff",
-      "color-ten": "#000000",
+      "color-ten": "#1dd3a7",
       "color-ten-inverted": "#ffffff"
     },
     "_items": {
-      "item-color": "#36cde8",
+      "item-color": "#00b6ff",
       "item-color-inverted": "#ffffff",
       "item-color-hover": "",
       "item-color-inverted-hover": "",
       "item-color-selected": "",
       "item-color-inverted-selected": "",
-      "visited": "#727272",
+      "visited": "#333333",
       "visited-inverted": "#ffffff"
     },
     "_buttons": {
-      "btn-color": "#4d4d4d",
+      "btn-color": "#333333",
       "btn-color-inverted": "#ffffff",
       "btn-color-hover": "",
       "btn-color-inverted-hover": "",
@@ -217,37 +219,37 @@
       "disabled-inverted": "#000000"
     },
     "_validation": {
-      "validation-success": "#065f28",
+      "validation-success": "#0dbc37",
       "validation-success-inverted": "#ffffff",
-      "validation-error": "#ff0000",
+      "validation-error": "#d60303",
       "validation-error-inverted": "#ffffff"
     },
     "_progress": {
-      "progress": "#ffffff",
-      "progress-inverted": "#000000",
-      "progress-border": "#ffffff"
+      "progress": "#333333",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#333333"
     },
     "_menu": {
-      "menu-item": "",
-      "menu-item-inverted": "",
-      "menu-item-border-color": "",
-      "menu-item-progress": "",
-      "menu-item-progress-inverted": "",
-      "menu-item-progress-border": "",
-      "menu-item-btn-color": "",
-      "menu-item-btn-color-inverted": "",
-      "menu-item-btn-color-hover": "",
-      "menu-item-btn-color-inverted-hover": ""
+      "menu-item": "#00b6ff",
+      "menu-item-inverted": "#ffffff",
+      "menu-item-border-color": "#00b6ff",
+      "menu-item-progress": "#00b6ff",
+      "menu-item-progress-inverted": "#ffffff",
+      "menu-item-progress-border": "#ffffff",
+      "menu-item-btn-color": "#ffffff",
+      "menu-item-btn-color-inverted": "#00b6ff",
+      "menu-item-btn-color-hover": "#333333",
+      "menu-item-btn-color-inverted-hover": "#ffffff"
     },
     "_nav": {
-      "nav": "#000000",
+      "nav": "#333333",
       "nav-inverted": "#ffffff",
       "hide-nav": false,
-      "nav-icon": "#000000",
+      "nav-icon": "#ffffff",
       "nav-icon-inverted": "#ffffff",
-      "nav-icon-hover": "#000000",
+      "nav-icon-hover": "#ffffff",
       "nav-icon-inverted-hover": "#ffffff",
-      "navigation-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png",
+      "navigation-logo": "",
       "nav-logo-height": "60px",
       "nav-logo-height-mobile": "50px",
       "nav-logo-padding-top": "5px",
@@ -262,12 +264,12 @@
       "nav-progress-border-hover": ""
     },
     "_footer": {
-      "footer": "#000000",
+      "footer": "#333333",
       "footer-inverted": "#ffffff",
       "footer-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
     },
     "_notify": {
-      "notify": "#36cde8",
+      "notify": "#333333",
       "notify-inverted": "#ffffff",
       "notify-link": "",
       "notify-link-hover": "",
@@ -281,7 +283,7 @@
       "notify-icon-inverted-hover": ""
     },
     "_drawer": {
-      "drawer": "#263944",
+      "drawer": "#333333",
       "drawer-inverted": "#ffffff",
       "drawer-link": "",
       "drawer-link-hover": "",
@@ -303,11 +305,38 @@
       "drawer-progress-border-hover": ""
     },
     "_misc": {
-      "background": "#000000",
+      "background": "#333333",
       "background-inverted": "#ffffff",
-      "shadow": "#000000",
+      "shadow": "#333333",
       "shadow-inverted": "#ffffff"
     }
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "All rights reserved",
+        "description": "<p>© The Open Data Institute</p><p>All rights reserved.</p><p>Not for deployment or distribution.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy Policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+      }
+    ]
+  },
+  "_spoor": {
+    "_messages": ""
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
@@ -326,27 +355,11 @@
       "no": "No"
     }
   },
-  "_assessment": {
-    "_isPercentageBased": true,
-    "_scoreToPass": 60
-  },
   "_aboutPage": {
     "_items": [
       {
-        "title": "Demo only",
-        "description": "<p>This is a demo SCORM object provided by the Open Data Institute in order to test the technical integration into learning management systems.</p><p><strong>It is not a content or theme demonstration. Content and look and feed is&nbsp;deliberately rough to act as a watermark.&nbsp;</strong></p><p>The developer tools cog (top right) enables the testing of the core functionality of the SCORM object without having the manually complete the lesson each time.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      }
-    ]
-  },
-  "_ODILicence": {
-    "_items": [
-      {
-        "title": "All rights reserved",
-        "description": "<p>&copy; The Open Data Institute</p><p>All rights reserved.</p><p>Not for deployment or distribution.&nbsp;</p>",
+        "title": "About",
+        "description": "<p>This is a SCORM test package to test LMS functionality and compatibility.</p><p>It was built from Adapt Framework 5.10.1.</p><p>&nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": ""

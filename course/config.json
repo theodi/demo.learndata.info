@@ -9,10 +9,9 @@
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
   "_id": "5ef06abd31bc1e106f20cb7e",
-  "__v": 27,
+  "__v": 29,
   "_accessibility": {
     "_isEnabled": false,
-    "_isTextProcessorEnabled": false,
     "_isSkipNavigationEnabled": false,
     "_ariaLevels": {
       "_menu": 1,
@@ -56,16 +55,18 @@
     "_tracking": {
       "_shouldSubmitScore": true,
       "_shouldStoreResponses": true,
+      "_shouldStoreAttempts": false,
       "_shouldRecordInteractions": true
     },
     "_reporting": {
-      "_onTrackingCriteriaMet": "completed",
+      "_onTrackingCriteriaMet": "passed",
       "_onAssessmentFailure": "failed",
       "_resetStatusOnLanguageChange": false
     },
     "_advancedSettings": {
       "_showDebugWindow": false,
       "_commitOnStatusChange": true,
+      "_commitOnAnyChange": false,
       "_timedCommitFrequency": 10,
       "_maxCommitRetries": 5,
       "_commitRetryDelay": 2000,
